@@ -1,4 +1,4 @@
-# pdftoaudiobook
+# Converter PDF em AUDIOLIVRO
 # Conversor de PDF para Áudio
 
 Este é um programa simples em Python que extrai o texto de um arquivo PDF e converte-o em narração de áudio.
